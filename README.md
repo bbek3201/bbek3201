@@ -1,5 +1,7 @@
 # Hi, I'm bbek3201
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Next.js+%2B+TypeScript+%2B+PostgreSQL;Building+EVIDO+%26+contributing+to+GrowX)
+
 Full-stack developer building practical, production-ready web products with Next.js, TypeScript and PostgreSQL.
 
 - Building **EVIDO** — a workforce, project and operations management platform (Next.js, Prisma, PostgreSQL, NextAuth)
@@ -33,6 +35,12 @@ Full-stack developer building practical, production-ready web products with Next
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Contribution graph
+
+![Contribution snake animation](https://raw.githubusercontent.com/bbek3201/bbek3201/output/github-contribution-grid-snake.gif)
+
+<sub>Generated automatically by GitHub Actions on every push and daily — first appears a minute or two after this file is pushed.</sub>
 
 ## GitHub stats
 
